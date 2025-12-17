@@ -96,5 +96,7 @@ This project demonstrates how **data analytics can empower the aviation industry
 
 ---
 
+## Screenshot
+<img width="1438" height="792" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/829ecfa7-a244-48ff-a3f6-42967dfc849f" />
 
 
